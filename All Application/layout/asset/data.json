@@ -1,0 +1,21 @@
+[
+    {
+        "title":"What's Bitcion",
+        "subtitle":"Bitcoin, a type of cryptocurrency, is challenging the traditional global economy.",
+        "image_urls":"https://cdn.pixabay.com/photo/2019/07/28/12/36/bitcoin-4368671_1280.jpg",
+        "detail":""
+    },
+    {
+        "title":"What Bitcoin can Do",
+        "subtitle":"Bitcoin allows for peer-to-peer online transactions to be conducted without an intermediary, enabling global, decentralized, and secure digital money transfers.",
+        "image_urls":"https://cdn.pixabay.com/photo/2022/10/08/16/54/koala-7507378_1280.jpg" ,
+        "detail":""
+    },
+    {
+        "title":"Bitcoin current PriceR",
+        "subtitle":"Welcome to The World Of Decentrolized Land",
+        "image_urls":"https://cdn.pixabay.com/photo/2022/02/03/15/49/money-6990721_1280.jpg" ,
+        "detail":""
+    }
+
+]
